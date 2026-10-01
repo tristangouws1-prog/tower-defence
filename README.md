@@ -8,7 +8,6 @@ A tower-defense game built in **Unity** with C#. Enemies advance along a waypoin
 - **Heroes** — deployable hero units (Knight, Dragon, Princess) with distinct abilities.
 - **Enemies** — path-following enemies driven by a wave manager that scales difficulty over time.
 
-> This repository contains the C# gameplay scripts. Open the folder as part of a Unity project to build and play.
 
 ## Tech
 
